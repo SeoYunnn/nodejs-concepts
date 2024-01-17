@@ -13,3 +13,4 @@
 
 ## Notion
 - [Chapter 01 노드 시작하기](https://leeseoyun.notion.site/Chapter-01-b477f0d4f7204de68c77bc1f3777cdc9?pvs=4)
+- [Chapter 02 알아둬야 할 자바스크립트](https://leeseoyun.notion.site/Chapter-02-1f67652e4c1e40ddac8ae0fc38803cde?pvs=4)
