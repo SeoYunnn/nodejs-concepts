@@ -1,22 +1,23 @@
 var relationship1 = {
   name: "zero",
   friends: ["nero", "hero", "xero"],
-  logFriends: function () {
-    var that = this; // relationship1을 가리키는 this를 that에 저장
+  logFrineds: function () {
+    var that = this; // relationshop1을 가리키는 this 를 that 에 저장
     this.friends.forEach(function (friend) {
-      console.log(that.name, friend);
     });
   },
 };
-relationship1.logFriends();
+
+relationship1.logFrineds();
 
 const relationship2 = {
   name: "zero",
   friends: ["nero", "hero", "xero"],
-  logFriends() {
+  logFrineds() {
     this.friends.forEach(friend => {
       console.log(this.name, friend);
     });
   },
 };
-relationship2.logFriends();
+
+relationship2.logFrineds();
