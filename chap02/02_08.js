@@ -1,4 +1,4 @@
-var candyMachine = {
+const candyMachine = {
   status: {
     name: "node",
     count: 5,
@@ -8,5 +8,5 @@ var candyMachine = {
     return this.status.count;
   },
 };
-var getCandy = candyMachine.getCandy;
-var count = candyMachine.count;
+const getCandy = candyMachine.getCandy;
+const count = candyMachine.count;
