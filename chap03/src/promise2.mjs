@@ -14,4 +14,4 @@ async function main() {
 }
 
 console.log('끝');
-main(); // main에서 오류가 남 -> 왜 ????
+main();
